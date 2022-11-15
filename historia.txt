@@ -1,0 +1,4 @@
+This is my first approach  to Git....
+
+
+We are going to make a lot changes to this file , so sorry
