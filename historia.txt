@@ -4,7 +4,7 @@ This is my second with 2  approach  to Git....
 We are going to make a lot changes to this file , so sorry
 
 
-estoy agregando una nueva linea de testtttttt
+estoy agregando una nueva linea de test mucho mas organizada 
 
 
 
