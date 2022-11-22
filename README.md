@@ -2,7 +2,7 @@
 This repository is for learning how to use Git and Github. 
 
 #Objetives 
-- *** How use a commit correctly***
+- ***How use a commit correctly***
 - ***How branches work***
 -  ***Merge, pull, push and pull request***
 - ***Https and SSH***
